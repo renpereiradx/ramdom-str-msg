@@ -1,0 +1,16 @@
+{
+  "name": "ramdom-str-msg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["javascript", "node", "npm"],
+  "author": "Hugo Rene <renpereiradx92@gmail.com",
+  "license": "MIT",
+  "bin": {
+    "ramdom-str-msg": "./index.js"
+  },
+  "preferGlobal": true
+}
